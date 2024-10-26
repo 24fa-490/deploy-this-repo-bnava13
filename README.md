@@ -26,6 +26,4 @@
 
 # Where am I deployed?
 
-<enter your URL here>
-
-
+https://deploy-this-repo-bnava13.vercel.app/
