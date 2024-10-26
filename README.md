@@ -26,4 +26,4 @@
 
 # Where am I deployed?
 
-<where: https://deploy-this-repo-bnava13.vercel.app/>
+https://deploy-this-repo-bnava13.vercel.app/
